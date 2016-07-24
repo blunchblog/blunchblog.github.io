@@ -1,0 +1,7 @@
+.sidebar {
+    background-image: url('../images/pub.jpg');
+    -webkit-background-size: cover;
+         -o-background-size: cover;
+            background-size: cover;
+    background-repeat: no-repeat;
+}
