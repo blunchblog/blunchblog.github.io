@@ -83,6 +83,9 @@ html {
   font-weight: normal;
   font-size: 4.5rem;
 }
+.sidebar-about h1 a:hover {
+  text-decoration: none;
+}
 
 /* Sidebar nav */
 .sidebar-nav {
